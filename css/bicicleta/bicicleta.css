@@ -97,10 +97,16 @@
 }
 
 @media (max-width: 800px) {
+  
+/*   #bicicleta .titulo { 
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+ */
   .bicicleta {
     grid-template-columns: 1fr;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 
   .bicicleta-imagens {
